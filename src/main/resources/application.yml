@@ -11,8 +11,8 @@ spring:
     #druid
   datasource:
     url: jdbc:mysql://47.98.143.42:3306/miaosha?user=root&password=&useUnicode=true&characterEncoding=gbk&autoReconnect=true&failOverReadOnly=false
-    username: root
-    password: 1qazXDR%
+    username: xx
+    password: xxx
     driver-class-name: com.mysql.cj.jdbc.Driver
     type: com.alibaba.druid.pool.DruidDataSource
     filers: stat
